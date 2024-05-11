@@ -1,5 +1,5 @@
 # Hello World 
-This is my home page! My name is Bayron Lopez I am a student at [ Cal State Fullerton9 
+This is my home page! My name is Bayron Lopez I am a student at [ Cal State Fullerton(h
 ## Computer Science Projects 
 My GitHub page is http://github.com/Blex1105 
 ## CPSC 120 
